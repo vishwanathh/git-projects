@@ -1,0 +1,8 @@
+{
+  "name": "alerting",
+  "main": "grafana.js",
+  "dependencies": {
+    "express": "~4.10.2",
+    "body-parser": "~1.9.2"
+  }
+}
