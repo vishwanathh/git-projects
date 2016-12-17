@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="js-locale-library">
+        <wb-resource deploy-path="/" source-path="/ui"/>
+        <property name="context-root" value="js-locale-library"/>
+    </wb-module>
+</project-modules>
