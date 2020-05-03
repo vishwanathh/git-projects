@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:60xxxx599:android:9a***cdce2",
+        "mobilesdk_app_id": "***",
         "android_client_info": {
           "package_name": "com.tekminds.firebaseapp"
         }
