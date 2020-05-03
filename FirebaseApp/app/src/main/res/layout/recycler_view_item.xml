@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/common_google_signin_btn_text_dark_default"
+    android:backgroundTintMode="multiply"
+    android:focusable="auto"
+    android:padding="10dp"
+    tools:actionBarNavMode="standard">
+
+  <TextView
+      android:id="@+id/eventIcon"
+      android:layout_width="40dp"
+      android:layout_height="40dp"
+      android:layout_marginTop="10dp"
+      android:background="@drawable/rounded_drawable"
+      android:gravity="center"
+      android:text="A"
+      android:textColor="@android:color/white"
+      android:textSize="20sp" />
+
+  <TextView
+      android:id="@+id/eventName"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="10dp"
+      android:layout_toEndOf="@+id/eventIcon"
+      android:text="TextView"
+      android:textSize="16sp"
+      android:textStyle="bold" />
+
+  <TextView
+      android:id="@+id/eventDesc"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/eventName"
+      android:layout_marginStart="10dp"
+      android:layout_marginTop="5dp"
+      android:layout_toEndOf="@+id/eventIcon"
+      android:ellipsize="end"
+      android:maxLines="1"
+      android:text="This is a very long text and we need to show 3...(dots)" />
+
+  <TextView
+      android:id="@+id/eventTime"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignBaseline="@id/eventName"
+      android:layout_alignParentEnd="true"
+      android:text="TextView" />
+
+  <!--<ImageView
+      android:id="@+id/logo"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentEnd="true"
+      android:layout_below="@+id/eventDesc"
+      android:padding="5dp"
+      android:src="@drawable/ic_start_black" />-->
+</RelativeLayout>

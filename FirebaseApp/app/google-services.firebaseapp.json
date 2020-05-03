@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606371494599",
+    "firebase_url": "https://fir-app-afd60.firebaseio.com",
+    "project_id": "fir-app-afd60",
+    "storage_bucket": "fir-app-afd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606371494599:android:9a644d268e1c42938cdce2",
+        "android_client_info": {
+          "package_name": "com.tekminds.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606371494599-j7cmlvbuuolbag63qlnq1u2q19osa1ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSzwGRrMcwuuU1UYsUzR6nQWZrxbP8eSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606371494599-j7cmlvbuuolbag63qlnq1u2q19osa1ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

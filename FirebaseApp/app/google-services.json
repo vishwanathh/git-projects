@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675672841622",
+    "firebase_url": "https://tekminds-inursery.firebaseio.com",
+    "project_id": "tekminds-inursery",
+    "storage_bucket": "tekminds-inursery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675672841622:android:53f57cec1111ffad1111b7",
+        "android_client_info": {
+          "package_name": "com.tekminds.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675672841622-gf0cfbsut531bbhvpi25tp1dnre447tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEr7S-Rcn2IBNTwY256albYV5A4BfPsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675672841622-gf0cfbsut531bbhvpi25tp1dnre447tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
